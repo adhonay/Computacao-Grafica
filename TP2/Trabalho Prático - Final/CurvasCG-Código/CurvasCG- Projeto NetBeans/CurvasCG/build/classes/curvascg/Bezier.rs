@@ -1,0 +1,10 @@
+curvascg.Pontos
+curvascg.Point
+curvascg.Tela
+curvascg.LinhaBezier
+curvascg.Ponto
+curvascg.bezierLine
+curvascg.ErrorFrame
+curvascg.Pontos1
+curvascg.PointList
+curvascg.myCanvas

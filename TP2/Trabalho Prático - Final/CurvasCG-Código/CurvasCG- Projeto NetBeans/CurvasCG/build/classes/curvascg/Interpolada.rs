@@ -1,0 +1,8 @@
+curvascg.CurveControls2
+curvascg.ControleCurva
+curvascg.CurveControls
+curvascg.CurveControls$CurveControls2
+curvascg.ControlPointInterpolada
+curvascg.CurveControls$1CurveControls2
+curvascg.WindowCurve
+curvascg.PainelInterpolada
